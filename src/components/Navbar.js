@@ -6,7 +6,7 @@ export class Navbar extends Component {
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <a className="navbar-brand" href="/">
-            Navbar
+            My News Portal
           </a>
           <button
             className="navbar-toggler"
